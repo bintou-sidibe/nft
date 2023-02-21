@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    max-width: 1440px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.page{
+    background-color: hsl(216, 50%, 16%);
+    width: 375px;
+    margin: auto;
+    border-radius: 20px;
+    height: 600px;
+    padding: 20px;
+    
+}
+.image{
+    background-color: hsl(216, 50%, 16%);
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    padding-top: 20px;
+
+}
+
+.titre{
+    color: white;
+    font-family: Outfit;
+}
+
+.text{
+   color: hsl(215, 32%, 27%);
+}
+
+.valeur{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    size: 14px;
+    font-family: Outfit;
+}
+
+.distance{
+    color: hsl(178, 100%, 50%);
+}
+
+.jours{
+    color:hsl(215, 32%, 27%);
+}
+
+.nom img{ 
+    width: 40px ;
+  margin-top: 40px;
+}
+
+.nom{
+    gap: 15px;
+    color:hsl(215, 32%, 27%) white;
+}
+ 
+hr{
+    margin-top: 50px;
+   color: hsl(215, 32%, 27%);
+
+}
+
